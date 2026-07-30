@@ -15,7 +15,7 @@
 
 🌐 Portfólio: https://elirosal.github.io/meuprojeto/
 
-💻 Tecnologias:
+
 ## 💻 Tecnologias
 
 <p align="left">
